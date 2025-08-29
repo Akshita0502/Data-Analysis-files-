@@ -20,7 +20,7 @@ This project aims to analyze student performance data to answer the following ke
 
 -Regular attendance (>85%) is strongly linked with higher scores.
 
-*Tools & Libraries Used:-
+* Tools & Libraries Used:-
 
 1. Python (Pandas, NumPy)
 
